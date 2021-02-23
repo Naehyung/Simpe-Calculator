@@ -1,0 +1,24 @@
+.calculator-template {
+  background: white;
+  width: 320px;
+  margin: 0 auto;
+  margin-top: 4rem;
+  border: 1px solid #22b8cf;
+}
+
+.title {
+  padding: 1rem;
+  font-size: 2.5rem;
+  text-align: center;
+  font-weight: 100;
+  background: #22b8cf;;
+  color: white;
+}
+
+.form-wrapper {
+  border-bottom: 1px solid #22b8cf;
+}
+
+.children-wrapper {
+  height: 25rem;
+}
