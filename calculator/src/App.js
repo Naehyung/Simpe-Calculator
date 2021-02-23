@@ -3,7 +3,6 @@ import React, { Component } from 'react';
 import Template from './components/Template'
 import Form from './components/Form';
 import ComponentList from './components/ComponentList'
-import operate from './operation/operate';
 import calculate from './operation/calculate'
 
 export default class App extends Component {
